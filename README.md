@@ -27,6 +27,8 @@ Below, you will find reverse interview questions categorized according to these 
 [Read questions](QA/QAEngineer.md)
 
 #### Front End Developer:
+Coming soon...
 
 #### Back End Developer:
+Coming soon...
 
