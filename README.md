@@ -3,7 +3,7 @@
 ## Introduction
 This project aims to provide a list of reverse interview questions categorized based on the different steps of a job interview. Reverse interview questions allow candidates to gather valuable information about the company, team, and job role, enabling them to make an informed decision about their fit within the organization. By asking thoughtful and insightful questions, candidates can demonstrate their interest, knowledge, and problem-solving skills to the interviewer.
 
-## Job Interview Steps
+## Job Interview Steps
 The job interview process typically consists of the following steps:
 
 ### 1. Intro Call with HR
